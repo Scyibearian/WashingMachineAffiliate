@@ -1,1 +1,1 @@
-web: gunicorn washingmachineaffiliate.wsgi 
+web: gunicorn washingmachineaffiliate_wsgi.py 
